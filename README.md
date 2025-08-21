@@ -1,1 +1,1 @@
-# Smart Vote
+# Smart Vote Voting System
