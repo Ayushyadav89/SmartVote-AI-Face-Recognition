@@ -106,6 +106,10 @@ It allows voters to register their details with a photo and later cast their vot
 
 - Support for real-time results visualization.
 
+## 📜 License
+
+- This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Ayushyadav89/SmartVote-AI-Face-Recognition.git) file for details.
+
 ## 👨‍💻 Author
 
 - Ayush Yadav
