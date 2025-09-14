@@ -13,14 +13,10 @@ It allows voters to register their details with a photo and later cast their vot
 - ✅ Face Recognition Voting – Authenticate voters using OpenCV and KNN classifier.
 
 - ✅ Multiple Parties Support – Voters can choose among:
-
-- BJP 🟠
-
-- Congress 🟢
-
-- AAP 🟡
-
-- NOTA ❌
+  1. BJP 🟠
+  2. Congress 🟢
+  3. AAP 🟡
+  4. NOTA ❌
 
 - ✅ CSV Data Storage – Saves voter information and voting logs.
 
