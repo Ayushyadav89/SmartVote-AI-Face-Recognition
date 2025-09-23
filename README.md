@@ -47,7 +47,7 @@ It allows voters to register their details with a photo and later cast their vot
 
 - Face image captured using webcam (OpenCV).
 
-- Details saved in voter_data.csv.
+- Details saved in  voter_data.csv.
 
 2. Training
 
