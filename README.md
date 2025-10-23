@@ -27,7 +27,7 @@ It allows voters to register their details with a photo and later cast their vot
 ## 🛠️ Tech Stack
 
 - Python 3.x
-
+- 
 - OpenCV (cv2) – For face detection & recognition
 
 - scikit-learn (KNeighborsClassifier) – ML model for classification
