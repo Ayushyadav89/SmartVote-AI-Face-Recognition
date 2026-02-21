@@ -17,7 +17,7 @@ It allows voters to register their details with a photo and later cast their vot
   2. Congress 🟢
   3. AAP 🟡
   4. NOTA ❌
-
+ 
 - ✅ CSV Data Storage – Saves voter information and voting logs.
 
 - ✅ Time-stamped Votes – Keeps record of vote time and date.
